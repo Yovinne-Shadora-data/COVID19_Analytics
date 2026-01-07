@@ -20,16 +20,6 @@ Trend analysis of COVID-19 cases using open data from Our World in Data (OWID). 
 ### Vaccination vs New Cases
 ![Vaccination vs New Cases](screenshots/vaccination_vs_cases.png)
 
-
-\*\*Future Improvements:\*\*  
-
-\- Include multiple countries for comparison.  
-
-\- Forecasting using ARIMA or Prophet.  
-
-\- Interactive dashboard using Streamlit or Flask.  
-
-
 **Future Improvements:**
 
 - Include multiple countries for comparison.  
