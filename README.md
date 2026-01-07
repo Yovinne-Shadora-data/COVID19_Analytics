@@ -41,11 +41,11 @@ Trend analysis of COVID-19 cases using open data from Our World in Data (OWID). 
 
 
 ---
-![CFR Over Time](Screenshots/cfr_over_time.png)
+![CFR Over Time](screenshots/cfr_over_time.png)
 
 - Vaccination vs New Cases  
 
-![Vaccination vs Cases](Screenshots/vaccination_vs_cases.png)
+![Vaccination vs Cases](screenshots/vaccination_vs_cases.png)
 
 **Future Improvements:**
 
