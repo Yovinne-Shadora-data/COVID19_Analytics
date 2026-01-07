@@ -10,7 +10,7 @@ Trend analysis of COVID-19 cases using open data from Our World in Data (OWID). 
 
 - Daily New Cases with 7-day Moving Average  
 
-![Daily New Cases](Screenshots/daily_new_cases.png)
+![Daily New Cases](screenshots/daily_new_cases.png)
 
 - Case Fatality Rate (CFR) Over Time  
 
@@ -21,13 +21,13 @@ Trend analysis of COVID-19 cases using open data from Our World in Data (OWID). 
 ## Visualizations
 
 ### Daily New Cases with 7-day Moving Average
-![Daily New Cases](Screenshots/daily_new_cases.png)
+![Daily New Cases](screenshots/daily_new_cases.png)
 
 ### Case Fatality Rate (CFR) Over Time
-![CFR Over Time](Screenshots/cfr_over_time.png)
+![CFR Over Time](screenshots/cfr_over_time.png)
 
 ### Vaccination vs New Cases
-![Vaccination vs New Cases](Screenshots/vaccination_vs_cases.png)
+![Vaccination vs New Cases](screenshots/vaccination_vs_cases.png)
 
 
 \*\*Future Improvements:\*\*  
