@@ -14,15 +14,15 @@ Trend analysis of COVID-19 cases using open data from Our World in Data (OWID). 
 
 \- Daily New Cases with 7-day Moving Average  
 
-&nbsp; !\[Daily New Cases](COVID19\_Evaluation/Screenshots/daily\_new\_cases.png)
+ !\[Daily New Cases](COVID19\_Evaluation/screenshots/daily\_new\_cases.png)
 
 \- Case Fatality Rate (CFR) Over Time  
 
-&nbsp; !\[CFR Over Time](COVID19\_Evaluation/Screenshots/cfr\_over\_time.png)
+!\[CFR Over Time](COVID19\_Evaluation/screenshots/cfr\_over\_time.png)
 
 \- Vaccination vs New Cases  
 
-&nbsp; !\[Vaccination vs Cases](COVID19\_Evaluation/Screenshots/vaccination\_vs\_cases.png)
+!\[Vaccination vs Cases](COVID19\_Evaluation/screenshots/vaccination\_vs\_cases.png)
 
 
 
